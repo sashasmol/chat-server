@@ -1,6 +1,4 @@
-### chat-server
-Software Engineering CS2113 - Fall 2018
-
+# Chat Server - Project Requirements
 ### Chat Room Requirements
 You must write server and client programs to let users exchange messages. Each user will run the ChatClient program and connect to a shared ChatServer.  The server will be responsible for forwarding incoming messages to all clients that are connected.
 
